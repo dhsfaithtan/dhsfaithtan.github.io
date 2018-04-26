@@ -4,7 +4,8 @@
 <title> My CCA-SJB</title>
 </head>
 <body>
-<p> My CCA is <strong>St Jonh's</strong>. It teaches me first aid. </p>
+  <heading>MY CCA</heading>
+<p> My CCA is <strong>St John's</strong>. It teaches me first aid. </p>
 <p>Here is a picture of me and my squad:</p>
 </body>
 </html>
