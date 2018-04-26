@@ -10,10 +10,7 @@ p{
   family-font: Calibri;
   colour: Black;
 }
-body,
-#grad1 {
-    height: 200px;
-    background-color: #cccccc;
-    background-image: linear-gradient(#33ccff, #6699ff);
+body{
+    background-color: #6699ff;
 }
 
