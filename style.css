@@ -10,6 +10,7 @@ p{
   family-font: Calibri;
   colour: Black;
 }
+body,
 #grad1 {
     height: 200px;
     background-color: #cccccc;
